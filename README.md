@@ -25,9 +25,39 @@ Enhanced Profitability: Through better risk assessment and portfolio optimizatio
 
 Customer Satisfaction and Trust: By leveraging data-driven insights to make more accurate lending decisions, Home Credit can provide a secure and positive borrowing experience for its customers. This fosters trust and loyalty among borrowers, enhancing customer satisfaction and retention.
 ***
+### Data Modeling
+We use the following Machine learning algorithms and built Classification models for our supervised classification task.
+
+1) Random Forest
+2) Logistic Regression
+3) Extreme Gradient Boost
+4) Light Gradient Boost
+
+### Model Evaluation
+Evaluated Classification models by Accuracy, Confusion Matrix, Precision, Recall, F1-Score, and ROC.
+
+After comparing the performance of the above technique Light Gradient Boost performs the best.
+***
 ### Difficulties that were encountered
 
 Prioritizing Relevant Features: One of the significant difficulties our group encountered was dealing with the immense volume of data due to the presence of numerous data files. This posed challenges during the feature engineering phase, making it difficult to make informed decisions about which features to include in our predictive model. The sheer volume of data made it time-consuming and computationally intensive to analyze and extract meaningful features that could effectively capture the nuances of credit default risk.
 
 Resource Constraints: Limited resources, including computational power, posed challenges in scaling our analysis and implementing modeling techniques. Optimizing model training times and efficiently utilizing available resources was time-consuming.
+
+***
+### Learnings
+I learned several valuable lessons that enriched my understanding of predictive analytics and its application in the financial domain. Some key takeaways include:
+
+Data Preprocessing and Cleansing: I gained hands-on experience in data preprocessing and cleansing techniques, including handling missing values, outlier detection, and data transformation. I learned the importance of ensuring data quality and consistency to build reliable predictive models.
+
+Feature Engineering: Dealing with a large volume of data highlighted the significance of feature engineering in extracting meaningful insights and improving model performance. I learned various feature selection and extraction techniques to identify relevant predictors and enhance the predictive power of the model.
+
+Model Development and Evaluation: Through implementing machine learning algorithms such as LG Boost, I deepened my understanding of model development, parameter tuning, and evaluation. I learned how to assess model performance using appropriate metrics and interpret results to make informed decisions.
+
+
+
+
+
+
+
 
