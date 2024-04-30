@@ -33,10 +33,17 @@ We use the following Machine learning algorithms and built Classification models
 3) Extreme Gradient Boost
 4) Light Gradient Boost
 
+   ![image](https://github.com/sanket101-git/Home-Credit-Default-Risk/assets/59793183/23fd059d-6764-4214-a429-661940680293)
+
+   AUC Score of all the models that were used
+
+
 ### Model Evaluation
 Evaluated Classification models by Accuracy, Confusion Matrix, Precision, Recall, F1-Score, and ROC.
 
 After comparing the performance of the above technique Light Gradient Boost performs the best.
+![image](https://github.com/sanket101-git/Home-Credit-Default-Risk/assets/59793183/ad6be9cd-afcb-47ae-93f2-14f0a0becf01)
+
 ***
 ### Difficulties that were encountered
 
